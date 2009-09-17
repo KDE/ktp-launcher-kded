@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Service
+X-KDE-ServiceTypes=KDEDModule
+X-KDE-Library=telepathy_launcher
+X-KDE-DBus-ModuleName=telepathy_launcher
+X-KDE-Kded-autoload=true
+X-KDE-Kded-phase=2
+X-KDE-Kded-load-on-demand=false
+Name=Telepathy Launcher
+Comment=A tool to make sure Telepathy infrastructure components needed by the KDE session are running
+
