@@ -23,13 +23,22 @@
 
 #include <KDEDModule>
 
+class QDBusInterface;
+class QDBusPendingCallWatcher;
+
 class TelepathyLauncher : public KDEDModule
 {
     Q_OBJECT
 
-    public:
-        TelepathyLauncher(QObject *parent, const QList<QVariant> &args);
-        ~TelepathyLauncher();
+public:
+    TelepathyLauncher(QObject *parent, const QList<QVariant> &args);
+    ~TelepathyLauncher();
+
+private Q_SLOTS:
+    void getAccountManagerPropertiesFinished(QDBusPendingCallWatcher *watcher);
+
+private:
+    QDBusInterface *mc5Interface;
 };
 
 
