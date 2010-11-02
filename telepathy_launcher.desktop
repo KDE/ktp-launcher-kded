@@ -8,6 +8,7 @@ X-KDE-Kded-phase=2
 X-KDE-Kded-load-on-demand=false
 Name=Telepathy Launcher
 Name[nds]=Starter för Telepathy
+Name[nl]=Startprogramma van telepathie
 Name[pt]=Lançador do Telepathy
 Name[pt_BR]=Lançador do Telepathy
 Name[sv]=Startprogram för Telepathy
