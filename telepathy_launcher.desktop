@@ -7,5 +7,15 @@ X-KDE-Kded-autoload=true
 X-KDE-Kded-phase=2
 X-KDE-Kded-load-on-demand=false
 Name=Telepathy Launcher
+Name[hu]=Telepathy indító
+Name[nl]=Startprogramma van telepathie
+Name[pt]=Lançador do Telepathy
+Name[sv]=Startprogram för Telepathy
+Name[x-test]=xxTelepathy Launcherxx
 Comment=A tool to make sure Telepathy infrastructure components needed by the KDE session are running
+Comment[hu]=Segédprogram a KDE munkamenet által igényelt Telepathy komponenseks futásának ellenőrzésére
+Comment[nl]=Een hulpmiddel om er zeker van te zijn dat Telepathy infrastructuurcomponenten, die nodig zijn in de KDE-sessie, actief zijn
+Comment[pt]=Uma ferramenta que garante que os componentes de infra-estrutura do Telepathy necessários pela sessão do KDE estão em execução
+Comment[sv]=Ett verktyg för att försäkra att infrastrukturkomponenterna i Telepathy som behövs av KDE-sessionen kör
+Comment[x-test]=xxA tool to make sure Telepathy infrastructure components needed by the KDE session are runningxx
 
