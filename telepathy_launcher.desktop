@@ -28,6 +28,7 @@ Name[pt_BR]=Lançador do Telepathy
 Name[ru]=Инструмент запуска Telepathy
 Name[sk]=Spúšťač Tepelathy
 Name[sv]=Startprogram för Telepathy
+Name[tr]=Telepathy Başlatıcı
 Name[uk]=Інструмент запуску Telepathy
 Name[x-test]=xxTelepathy Launcherxx
 Comment=A tool to make sure Telepathy infrastructure components needed by the KDE session are running
@@ -50,6 +51,7 @@ Comment[pt_BR]=Uma ferramenta para garantir que os componentes de infraestrutura
 Comment[ru]=Инструмент для запуска компонентов инфраструктуры Telepathy, необходимых для сеанса KDE
 Comment[sk]=Nástroj na uistenie, že komponenty infraštruktúry Telepathy potrebné pre KDE sedenie bežia
 Comment[sv]=Ett verktyg för att försäkra att infrastrukturkomponenterna i Telepathy som behövs av KDE-sessionen kör
+Comment[tr]=KDE oturumu tarafından gerekli Telepathy altyapı bileşenlerinin çalıştığını kontrol eden bir araç
 Comment[uk]=Інструмент для запуску компонентів інфраструктури Telepathy, потрібних для сеансу KDE
 Comment[x-test]=xxA tool to make sure Telepathy infrastructure components needed by the KDE session are runningxx
 
